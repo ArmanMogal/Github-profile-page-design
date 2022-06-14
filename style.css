@@ -1,0 +1,44 @@
+body {
+  background-color: #cad2c5;
+}
+
+.size {
+  width: 2.4rem !important;
+}
+
+.light {
+  background: #2f3d48 !important;
+}
+
+.letter-spacing {
+  letter-spacing: 0.5rem;
+}
+
+::placeholder {
+  letter-spacing: 0.1rem;
+}
+
+#text {
+  outline: none;
+  border: none;
+  padding: 0.6rem 1.3rem;
+}
+
+.square {
+  width: 13rem;
+  height: 13rem;
+}
+
+.square-big {
+  width: 100%;
+  height: 40%;
+}
+
+.big-square {
+  width: 95%;
+  height: 29rem;
+}
+
+.A1 {
+  background-color: #353535;
+}
